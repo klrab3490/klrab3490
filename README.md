@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on 
+
 
 ## 🌐 Social Links:
 - [![Facebook](https://img.shields.io/badge/Facebook-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rahul.bushi/)
