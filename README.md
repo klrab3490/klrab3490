@@ -14,7 +14,7 @@
 - [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/7994542331?text=Hi)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/klrab_3490_) 
 - [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/kl.rab_3490#8475)
-- [![Dev](https://img.shields.io/badge/DEV-black.svg?logo=dev.to&logoColor=white)].(https://dev.to/klrab3490))
+- [![Dev](https://img.shields.io/badge/DEV-black.svg?logo=dev.to&logoColor=white)](https://dev.to/klrab3490)
 
 <!---
 klrab3490/klrab3490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
