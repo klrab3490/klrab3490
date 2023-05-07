@@ -1,7 +1,7 @@
 ## About:
 - 👋 Hi, I’m @klrab3490
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning react, node , etc
 - 💞️ I’m looking to collaborate on ...
 
 
