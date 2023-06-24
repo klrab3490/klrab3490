@@ -20,13 +20,16 @@
     <a href="https://twitter.com/klrab_3490_">
         <img align="left" alt="Rahul A B | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
     </a>
-    <a href="https://www.instagram.com/mkl.rab_3490/">
+    <a href="https://www.instagram.com/kl.rab_3490/">
         <img align="left" alt="Rahul A B | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
     </a>
     <a href="mailto:rahulbushi69@gmail.com">
         <img align="left" alt="Rahul A B | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
     </a>
-    </p>
+    <a href="https://www.linkedin.com/in/rahul-a-b-0044b1232/">
+        <img align="left" alt="Rahul A B | LinkedIn" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    </a>
+</p>
 <br>
 
 <!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
