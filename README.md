@@ -18,7 +18,7 @@
 # Connect with me <img src="https://github.com/klrab3490/klrab3490/blob/main/assets/Handshake.gif" height="32px">
 <p>
     <a href="https://twitter.com/klrab_3490_">
-        <img align="left" alt="Rahul A B | Twitter" width="26px" src="https://github.com/klrab3490/klrab3490/blob/main/assetsTwitter.svg" />
+        <img align="left" alt="Rahul A B | Twitter" width="26px" src="https://github.com/klrab3490/klrab3490/blob/main/assets/Twitter.svg" />
     </a>
     <a href="https://www.instagram.com/kl.rab_3490/">
         <img align="left" alt="Rahul A B | Instagram" width="24px" src="https://github.com/klrab3490/klrab3490/blob/main/assets/Instagram.svg" />
