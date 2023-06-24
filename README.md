@@ -1,11 +1,33 @@
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+<p>
+  <em>
+    I am a final year undergraduate from <b>Saintgits College of Engineering </b>, Kottayam, Kerala. <br>
+    A budding FrontEnd Developer and a Design Enthusiast, whose currently into Android Custom Rom Development.
+  </em>
+</p>
+
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+<a href="https://twitter.com/klrab_3490_">
+    <img align="left" alt="Rahul A B | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
+<a href="https://www.instagram.com/mkl.rab_3490/">
+    <img align="left" alt="Rahul A B | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a>
+<a href="mailto:rahulbushi69@gmail.com">
+    <img align="left" alt="Rahul A B | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+
 ## About:
+
 - 👋 Hi, I’m @klrab3490
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react, node , etc
 - 💞️ I’m looking to collaborate on ...
 
-
 ## 🌐 Social Links:
+
 - [![Facebook](https://img.shields.io/badge/Facebook-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rahul.bushi/)
 - [![Instagram](https://img.shields.io/badge/Instagram-red.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kl.rab_3490/)
 - [![Twitter](https://img.shields.io/badge/Twitter-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/klrab_3490_)
@@ -16,7 +38,4 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/kl.rab_3490#8475)
 - [![Dev](https://img.shields.io/badge/DEV-black.svg?logo=dev.to&logoColor=white)](https://dev.to/klrab3490)
 
-<!---
-klrab3490/klrab3490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
