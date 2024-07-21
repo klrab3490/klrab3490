@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a third year undergraduate from <b>Sahrdaya College Of Engineering and Technology </b>, Kodakara, Kerala. <br>
+    I am a forth year undergraduate from <b>Sahrdaya College Of Engineering and Technology </b>, Kodakara, Kerala. <br>
     A budding FrontEnd Developer and a Design Enthusiast, whose currently into Flutter App Development and BankEnd. Aiming to become a full stack web-developer.
   </em>
 </p>
